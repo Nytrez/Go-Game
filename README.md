@@ -1,5 +1,5 @@
-# Go Game
+# Gra Go
 
-Go game: http://en.wikipedia.org/wiki/Go_(game)
+http://en.wikipedia.org/wiki/Go_(game)
 
-C course project
+Projekt z kursu C
